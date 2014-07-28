@@ -402,7 +402,8 @@ function FindProxyForURL(url, host) {
         'facebook.com',
         'tw.yahoo.com',
         'youtube.com',
-        'zaobao.com.sg'
+        'zaobao.com.sg',
+        'mobile01.com',
     ];
 
     // see https://github.com/clowwindy/ChinaDNS/blob/master/chinadns/dnsrelay.py
